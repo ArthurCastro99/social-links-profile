@@ -1,5 +1,5 @@
-@media (min-width:375px){
-    main .caixa{
-        max-width: 21em;
+@media (max-width: 24em){
+    main div.caixa{
+        width: 21em;
     }
 }
